@@ -1,8 +1,19 @@
 {
-    "version": "1.0.4",
-    "files": [
-        "ylitka-client.jar",
-        "java.zip"
+    "version": "1.0.6",
+    "github_files": [
+        "ylitka-client.jar"
     ],
-    "timestamp": "1777990190.2254367"
+    "cloud_chunks": {
+        "java.zip": [
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/java.zip.part0",
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/java.zip.part1",
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/java.zip.part2"
+        ],
+        "libs.zip": [
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/libs.zip.part0",
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/libs.zip.part1",
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/libs.zip.part2"
+        ]
+    },
+    "timestamp": "1777990639.9365058"
 }
