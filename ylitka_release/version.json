@@ -1,5 +1,8 @@
 {
-    "version": "1.0.1",
-    "filename": "ylitka-client.jar",
-    "timestamp": "1777982717.7826803"
+    "version": "1.0.4",
+    "files": [
+        "ylitka-client.jar",
+        "java.zip"
+    ],
+    "timestamp": "1777990190.2254367"
 }
