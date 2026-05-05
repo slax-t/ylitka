@@ -1,21 +1,31 @@
 {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "cloud_chunks": {
         "java.zip": [
             "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/java.zip.part0",
             "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/java.zip.part1",
-            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/java.zip.part2"
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/java.zip.part2",
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/java.zip.part3",
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/java.zip.part4",
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/java.zip.part5"
         ],
         "libs.zip": [
             "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/libs.zip.part0",
             "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/libs.zip.part1",
-            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/libs.zip.part2"
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/libs.zip.part2",
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/libs.zip.part3",
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/libs.zip.part4",
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/libs.zip.part5"
         ],
         "natives.zip": [
             "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/natives.zip.part0"
         ],
         "minecraft.zip": [
-            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/minecraft.zip.part0"
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/minecraft.zip.part0",
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/minecraft.zip.part1"
+        ],
+        "mods.zip": [
+            "https://uiznpdrqmedvvdmgebkm.supabase.co/storage/v1/object/public/clients/mods.zip.part0"
         ]
     }
 }
